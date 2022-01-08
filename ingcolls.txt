@@ -9,3 +9,6 @@ About hobbies, I like to read, study and go to the gym.
 
 Now that I have the roadmap clear and focused. Let's finish this course. Important one.
 
+Basically, every software engineer need to know how to use Git and GitHub. It's trully an amazing tool.
+
+
